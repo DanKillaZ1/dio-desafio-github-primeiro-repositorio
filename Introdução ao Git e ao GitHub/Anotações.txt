@@ -1,0 +1,5 @@
+O Git Bash e um terminal extendido para otimizar o uso do Git
+Link para Download do GIT: https://www.markdownguide.org/basic-syntax/
+
+Link para Syntax Basica do MarkDown, Linguagem do Git e GitHub
+https://www.markdownguide.org/basic-syntax/
